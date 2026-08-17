@@ -3,7 +3,7 @@
         {
             "name": "Pitcharcity",
             "desc": "TEST. Hola! esta es la instancia de pitcharcity, donde viviras una nueva  experiencia.",
-            "zip_url": "",
+            "zip_url": "https://github.com/PITCHARCITY/remote-instances/releases/download/1.0/PICHA.INSTANCE.zip",
             "pack_version": "1",
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/Logo.Tipografico.de.Marca.Retro.Mostaza.22.png",
             "whitelist": [],
