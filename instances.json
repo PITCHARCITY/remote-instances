@@ -7,7 +7,8 @@
             "pack_version": "1",
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/Logo.Tipografico.de.Marca.Retro.Mostaza.22.png",
             "whitelist": [
-                "CentisTV"
+                "CentisTV",
+                "Litersh"
             ],
             "claimed_discord_ids": [
                 "1161288921922154506"
