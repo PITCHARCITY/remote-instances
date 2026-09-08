@@ -96,6 +96,19 @@
                 "946544035236032572",
                 "1461979049302691851"
             ]
+        },
+        {
+            "name": "Pitchar pruebas",
+            "desc": "Instancia remota para pruebas.",
+            "zip_url": "https://github.com/PITCHARCITY/remote-instances/releases/download/1.0/kg.zip",
+            "pack_version": "1.0",
+            "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/Logo.Tipografico.de.Marca.Retro.Mostaza.22.png",
+            "whitelist": [
+                "CentisTV"
+            ],
+            "claimed_discord_ids": [
+                "1161288921922154506"
+            ]
         }
     ]
 }
