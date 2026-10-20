@@ -3,7 +3,7 @@
         {
             "name": "Project 100",
             "desc": "El server de minecraft Hardcore mas top, by Orbit Crew and ElPipeBro",
-            "zip_url": "",
+            "zip_url": "https://github.com/PITCHARCITY/remote-instances/releases/download/1.0/v1.zip",
             "pack_version": "1.5",
             "icon_url": "https://github.com/PITCHARCITY/remote-instances/releases/download/1.0/icon.png",
             "whitelist": [
